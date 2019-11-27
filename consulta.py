@@ -1,1 +1,0 @@
-# Aqui será o código responsável por fazer consultas ao banco de dados local geral, e prover uma interface simples(CLI) para tal
